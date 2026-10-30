@@ -35,6 +35,10 @@ body {
 .one1 {
     text-decoration: underline;
 }
+.one1:visited{
+    color: blue;
+    color: black;
+}
 
 .two {
     font-size: 10px;
